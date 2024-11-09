@@ -54,8 +54,8 @@ Scripts: Jupyter notebooks and Python scripts with code and explanations.
 Visualizations: Graphs, plots, and charts generated during the analysis.
 Reports: A summary of findings and insights in Markdown or PDF format.
 
-Repository Structure
-CodEvo Solutions DA/
+Repository Structure CodEvo Solutions DA/
+
 ├── Task 1 - Restaurant Reviews Analysis/
 ├── Task 2 - News Scraping/
 ├── Task 3 - Bike Sharing Analysis/
